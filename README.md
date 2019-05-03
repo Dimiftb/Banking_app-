@@ -1,3 +1,3 @@
 # Banking_app-
 
-University assignment involving developing a banking app mainly focused on multithreading
+This is a group project I developed with another student for an university assignment in Java focused mainly on multithreading.
